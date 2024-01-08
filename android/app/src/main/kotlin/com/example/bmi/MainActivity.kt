@@ -1,4 +1,4 @@
-package com.example.bmi
+package com.example.ChatBox
 
 import io.flutter.embedding.android.FlutterActivity
 
